@@ -1,0 +1,11 @@
+identifier: l8j5fbifbav2ed65
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: scully-blog
+homeFolder: C:\Users\rubenpa\Documents\GitHub\scully-blog
+distFolder: ./dist/scully-blog
+outDir: C:\Users\rubenpa\Documents\GitHub\scully-blog\dist\static
+handle404: ''
+allowErrorCollect: false
